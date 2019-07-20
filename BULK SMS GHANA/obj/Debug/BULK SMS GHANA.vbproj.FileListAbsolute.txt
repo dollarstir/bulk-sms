@@ -1,0 +1,13 @@
+C:\Users\kpin4\Documents\Visual Studio 2019\Projects\BULK SMS GHANA\BULK SMS GHANA\bin\Debug\BULK SMS GHANA.exe.config
+C:\Users\kpin4\Documents\Visual Studio 2019\Projects\BULK SMS GHANA\BULK SMS GHANA\bin\Debug\BULK SMS GHANA.exe
+C:\Users\kpin4\Documents\Visual Studio 2019\Projects\BULK SMS GHANA\BULK SMS GHANA\bin\Debug\BULK SMS GHANA.pdb
+C:\Users\kpin4\Documents\Visual Studio 2019\Projects\BULK SMS GHANA\BULK SMS GHANA\bin\Debug\BULK SMS GHANA.xml
+C:\Users\kpin4\Documents\Visual Studio 2019\Projects\BULK SMS GHANA\BULK SMS GHANA\obj\Debug\BULK SMS GHANA.vbprojAssemblyReference.cache
+C:\Users\kpin4\Documents\Visual Studio 2019\Projects\BULK SMS GHANA\BULK SMS GHANA\obj\Debug\BULK_SMS_GHANA.Form1.resources
+C:\Users\kpin4\Documents\Visual Studio 2019\Projects\BULK SMS GHANA\BULK SMS GHANA\obj\Debug\BULK_SMS_GHANA.Resources.resources
+C:\Users\kpin4\Documents\Visual Studio 2019\Projects\BULK SMS GHANA\BULK SMS GHANA\obj\Debug\BULK_SMS_GHANA.usermess.resources
+C:\Users\kpin4\Documents\Visual Studio 2019\Projects\BULK SMS GHANA\BULK SMS GHANA\obj\Debug\BULK SMS GHANA.vbproj.GenerateResource.cache
+C:\Users\kpin4\Documents\Visual Studio 2019\Projects\BULK SMS GHANA\BULK SMS GHANA\obj\Debug\BULK SMS GHANA.vbproj.CoreCompileInputs.cache
+C:\Users\kpin4\Documents\Visual Studio 2019\Projects\BULK SMS GHANA\BULK SMS GHANA\obj\Debug\BULK SMS GHANA.exe
+C:\Users\kpin4\Documents\Visual Studio 2019\Projects\BULK SMS GHANA\BULK SMS GHANA\obj\Debug\BULK SMS GHANA.xml
+C:\Users\kpin4\Documents\Visual Studio 2019\Projects\BULK SMS GHANA\BULK SMS GHANA\obj\Debug\BULK SMS GHANA.pdb
